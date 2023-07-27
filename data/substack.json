@@ -1,38 +1,47 @@
 [
-    {
-      "id": 0,
-      "title": "The Dynamic Partnership Between The BLOKC and Mapua University",
-      "image": "https://blokc-substact-images.ap-south-1.linodeobjects.com/mapua.jpg",
-      "description": "",
-      "href": "https://theblokc.substack.com/p/building-blokcs-the-dynamic-partnership",
-      "date": "Jul 18, 2023",
-      "creator": "The BLOKC"
-    },
-    {
-      "id": 1,
-      "title": "The BLOKC Teams up with Holy Angel University - School of Computing",
-      "image": "https://blokc-substact-images.ap-south-1.linodeobjects.com/hau.jpg",
-      "description": "",
-      "href": "https://theblokc.substack.com/p/the-blokc-teams-up-with-holy-angel",
-      "date": "Jun 21, 2023",
-      "creator": "The BLOKC"
-    },
-    {
-      "id": 2,
-      "title": "The BLOKC Seals MOA Partnership with Angeles University Foundation",
-      "image": "https://blokc-substact-images.ap-south-1.linodeobjects.com/auf.jpg",
-      "description": "",
-      "href": "https://theblokc.substack.com/p/the-blokc-seals-moa-partnership-with",
-      "date": "Jun 13, 2023",
-      "creator": "The BLOKC"
-    },
-    {
-      "id": 3,
-      "title": "The BLOKC Joins Forces with Solana Foundation",
-      "image": "https://blokc-substact-images.ap-south-1.linodeobjects.com/solana-foundation.jpg",
-      "description": "",
-      "href": "https://theblokc.substack.com/p/the-blokc-joins-forces-with-solana",
-      "date": "Jun 9, 2023",
-      "creator": "The BLOKC"
-    }
-  ]
+  {
+    "id": 0,
+    "title": "Lyceum of the Philippines University and The BLOKC Inks Partnership",
+    "image": "https://blokc-substact-images.ap-south-1.linodeobjects.com/lpu-the-blokc-moa.jpg",
+    "description": "",
+    "href": "https://theblokc.substack.com/p/building-blokcs-lyceum-of-the-philippines",
+    "date": "Jul 26, 2023",
+    "creator": "The BLOKC"
+  },
+  {
+    "id": 1,
+    "title": "The Dynamic Partnership Between The BLOKC and Mapua University",
+    "image": "https://blokc-substact-images.ap-south-1.linodeobjects.com/mapua.jpg",
+    "description": "",
+    "href": "https://theblokc.substack.com/p/building-blokcs-the-dynamic-partnership",
+    "date": "Jul 18, 2023",
+    "creator": "The BLOKC"
+  },
+  {
+    "id": 2,
+    "title": "The BLOKC Teams up with Holy Angel University - School of Computing",
+    "image": "https://blokc-substact-images.ap-south-1.linodeobjects.com/hau.jpg",
+    "description": "",
+    "href": "https://theblokc.substack.com/p/the-blokc-teams-up-with-holy-angel",
+    "date": "Jun 21, 2023",
+    "creator": "The BLOKC"
+  },
+  {
+    "id": 3,
+    "title": "The BLOKC Seals MOA Partnership with Angeles University Foundation",
+    "image": "https://blokc-substact-images.ap-south-1.linodeobjects.com/auf.jpg",
+    "description": "",
+    "href": "https://theblokc.substack.com/p/the-blokc-seals-moa-partnership-with",
+    "date": "Jun 13, 2023",
+    "creator": "The BLOKC"
+  },
+  {
+    "id": 4,
+    "title": "The BLOKC Joins Forces with Solana Foundation",
+    "image": "https://blokc-substact-images.ap-south-1.linodeobjects.com/solana-foundation.jpg",
+    "description": "",
+    "href": "https://theblokc.substack.com/p/the-blokc-joins-forces-with-solana",
+    "date": "Jun 9, 2023",
+    "creator": "The BLOKC"
+  }
+]
